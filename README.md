@@ -1,5 +1,6 @@
 ## Blockchain Private Network Deploy Demo
-[zh-cn version](README-cn.md)
+[中文版](README-cn.md)
+
 OS Env
 ```shell
 ~$ uname -a

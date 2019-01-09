@@ -1,5 +1,6 @@
 ## 区块链私链部署
-[en-us version](README.md)
+[en-US](README.md)
+
 系统环境
 ```shell
 ~$ uname -a
