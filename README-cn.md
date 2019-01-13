@@ -38,8 +38,6 @@ Go Version: go1.10.3
 ~$ cd privateNet
 # create account and specify a directory for storing chain data
 ~$ geth --datadir dataDir account new
-INFO [01-09|13:27:44.693] Maximum peer count ETH=25 LES=0 total=25
-Your new account is locked with a password. Please give a password. Do not forget this password.
 Passphrase:
 Repeat passphrase:
 Address: {35891a52b96846f9c304dd6bc65eefdc795ed861}
